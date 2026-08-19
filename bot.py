@@ -19,7 +19,7 @@ from telegram.ext import (
 # ============================================================
 # CONFIGURATION — preserved from the existing project
 # ============================================================
-BOT_TOKEN = "8802749033:AAGm9dA7XIE40e8916lNrBjX5SLrxc6vP2I"  # Set your BotFather token here; no environment variable is used.
+BOT_TOKEN = "8931504905:AAFipytd7yOCvpU2TQ3sn0n2IbACXZcjdOY"  # Set your BotFather token here; no environment variable is used.
 ADMIN_ID = 8239453740
 DB_FILE = "bot.sqlite"
 
